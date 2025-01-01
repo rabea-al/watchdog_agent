@@ -1,0 +1,12 @@
+xircuits
+requests
+vecto-sdk
+numpy
+Flask==3.0.3
+Flask-APScheduler==1.13.1
+Flask-Cors==5.0.0
+gradio==4.44.*
+makefun
+openai
+slack_sdk
+slack-bolt
